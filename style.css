@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&family=Sono:wght@600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+     font-family: 'Roboto Mono', monospace;
+     background-color:#ecf0f3;
+     display: flex;
+     justify-content: left;
+     height: 100vh;
+     width: 100vw;
+     align-items: center;
+}
+.bw-1 {
+    margin-left:377.9527559055px;
+}
+.bw-1 .bw-1-1 {
+    color: blueviolet;
+    font-weight:1000;
+    font-size: 50px;
+    letter-spacing: 0.1px;
+}
+.bw-1-2 {
+    font-size: 15px;
+    font-weight: 100;
+}
+.bw-2 {
+    width: 400px;
+    height: 450px;
+    margin-left: 75px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+    box-shadow: 10px 10px 20px #cbced1,-5px -7px 20px white;
+    padding-top: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.bw-2-1,.bw-2-2 {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+    caret-color: red;
+    margin-right: 20px;
+    padding-left: 5px;
+    font-size: 22px;
+    border: none;
+    border: 0.0001px solid black;
+}
+.bw-2-3 {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+    caret-color: red;
+    margin-right: 20px;
+    padding-left: 5px;
+    font-size: 22px;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.bw-2-4 {
+    
+}
+.bw-2-4 a {
+    text-decoration: none;
+    margin-left: 80px;
+}
+hr {
+    margin-top: 20px;
+}
+.bw-2-5 {
+    width: 75%;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: #42B72A;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 35px;
+}
+.bw-2-6 {
+    margin-left: 230px;
+    background-color: yellow;
+    font-size: 10px;
+
+}
